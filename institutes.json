@@ -1,0 +1,399 @@
+{
+  "Andaman and Nicobar": {
+    "Port Blair": ["Central Island Agricultural Research Institute"]
+  },
+  "Andhra Pradesh": {
+    "Sriharikota": ["Satish Dhawan Space Centre (SDSC)"],
+    "Rajahmundry": ["Central Tobacco Research Institute (CTRI)"],
+    "Garladinne": ["Farm Machinery Training and Testing Institutes (FMTTI)"],
+    "Visakhapatnam": ["Dredging Corporation of India"],
+    "Pedavegi": ["Indian Institute of Oil Palm Research"]
+  },
+  "Arunachal Pradesh": {
+    "Dirang": ["National Research Centre on Yak"]
+  },
+  "Assam": {
+    "Jorhat": [
+      "Rain Forest Research Institute (RFRI)",
+      "North East Institute of Science and Technology"
+    ],
+    "Guwahati": ["National Research Centre on Pig"],
+    "Biswanath Chariali": ["Farm Machinery Training and Testing Institutes (FMTTI)"]
+  },
+  "Bihar": {
+    "Muzaffarpur": ["National Research Centre for Lichi"]
+  },
+  "Chandigarh": {
+    "Chandigarh": [
+      "Central Scientific Instrument Organisation",
+      "Institute of Microbial Technology"
+    ]
+  },
+  "Chhattisgarh": {
+    "Raipur": ["National Institute of Biotic Stress Management"]
+  },
+  "Goa": {
+    "Goa": [
+      "National Institute of Oceanography",
+      "National Centre for Polar and Ocean Research"
+    ]
+  },
+  "Gujarat": {
+    "Ahmedabad": ["Space Applications Centre (SAC)", "Physical Research Laboratory (PRL)"],
+    "Jamnagar": ["National Center for Marine Biodiversity (NCMB)"],
+    "Bhavnagar": ["Central Salt & Marine Chemical Research Institute"],
+    "Vadodara": ["Gati Shakti Vishwavidyalay (National Rail and Transport Institute)"],
+    "Junagarh": ["Directorate of Groundnut Research"],
+    "Anand": ["Directorate of Medicinal and Aromatic Plant Research"]
+  },
+  "Haryana": {
+    "Faridabad": ["Central Fertilizer Quality Control and Training Institute (CFQCTI)"],
+    "Hisar": [
+      "Farm Machinery Training and Testing Institutes (FMTTI)",
+      "Central Institute for Research on Buffalos",
+      "National Research Centre for Equines (Horse)"
+    ],
+    "Karnal": [
+      "National Bureau of Animal Genetic Resources",
+      "National Dairy Research Institute (NDRI)",
+      "Indian Institute of Wheat and Barley Research",
+      "Central Soil Salinity Research Institute"
+    ],
+    "Manesar, Gurugram": ["National Brain Research Institute"],
+    "Gurugram": [
+      "National Horticulture Board",
+      "The National Institute of Solar Energy (NISE)"
+    ]
+  },
+  "Himachal Pradesh": {
+    "Shimla": [
+      "Central Potato Research Institute (CPRI)",
+      "International Potato Center- Lima, Peru",
+      "Himalayan Forest Research Institute (HFRI)"
+    ],
+    "Solan": ["Directorate of Mushroom Research"],
+    "Palampur": ["Institute of Himalayan Bioresource Technology"]
+  },
+  "Jammu and Kashmir": {
+    "Udhampur": ["Himalayan High Altitude Atmospheric and Climate Centre"],
+    "Srinagar": ["Central Institute of Temperate Horticulture"],
+    "Jammu": ["Indian Institute of Integrative Medicine"]
+  },
+  "Jharkhand": {
+    "Ranchi": [
+      "Institute of Forest Productivity (IFP)",
+      "Indian Institute of Agricultural Biotechnology",
+      "National Institute of Secondary Agriculture"
+    ],
+    "Dhanbad": ["Central Institute of Mining and Fuel Research"],
+    "Jamshedpur": ["National Metallurgical Laboratory"]
+  },
+  "Karnataka": {
+    "Bengaluru": [
+      "Indian Space Research Organisation (ISRO)",
+      "U.R. Rao Satellite Centre (URSC)",
+      "Indian Institute of Astrophysics (IIA)",
+      "Institute of Wood Science and Technology (IWST)",
+      "Indian Institute of Horticultural Research (IIHR)",
+      "Indian Coffee Board",
+      "Central Silk Board",
+      "Indian Plywood Industries Research and Training Institute (IPIRTI)",
+      "National Institute for Mental Health and Neuroscience (NIMHANS)",
+      "Indian Institute of Naturopathy and Yogic Sciences",
+      "Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)",
+      "Center for Nano and Soft Matter Sciences (CeNS)",
+      "National Biology Center",
+      "Indian Institute of Science (IISc)",
+      "University of Agricultural Sciences, Bengaluru (UASB)",
+      "National Institute of Animal Nutrition and Physiology",
+      "National Institute of Veterinary Epidemiology and Disease Informatics",
+      "National Bureau of Agricultural Insect Resources",
+      "Fourth Paradigm Institute",
+      "National Aerospace Laboratories"
+    ],
+    "Mysore": [
+      "CSIR-Central Food Technological Research Institute (CSIR-CFTRI)",
+      "Central Institute of Indian Languages"
+    ],
+    "Puttur": ["Directorate of Cashew Research"]
+  },
+  "Kerala": {
+    "Kozhikode": ["Indian Institute of Spices Research (IISR)"],
+    "Kochi": [
+      "Masala Board",
+      "Coconut Development Board",
+      "Central Marine Fisheries Research Institute (CMFRI)",
+      "Central Institute of Fisheries Technology"
+    ],
+    "Thiruvananthapuram": [
+      "Vikram Sarabhai Space Centre (VSSC)",
+      "Liquid Propulsion Systems Centre (LPSC)",
+      "Thumba Equatorial Rocket Launching Station (TERLS)",
+      "Central Tuber Crops Research Institute (CTCRI)",
+      "Rajiv Gandhi Center for Biotechnology",
+      "Jawaharlal Nehru Tropical Botanic Garden and Research Institute",
+      "National Institute for Interdisciplinary Science and Technology"
+    ],
+    "Kasaragod": ["Central Plantation Crops Research Institute (CPCRI)"],
+    "Kollam": ["Cashew Export Promotion Council of India (CEPCI)"],
+    "Kottayam": ["Rubber Board"]
+  },
+  "Maharashtra": {
+    "Nagpur": [
+      "Central Institute for Cotton Research",
+      "National Environmental Engineering Research Institute (NEERI)",
+      "Mineral Exploration and Consultancy Limited (MECL)",
+      "Central Agmark Laboratory",
+      "Central Citrus Research Institute",
+      "National Bureau of Soil Survey and Land Use Planning"
+    ],
+    "Pune": [
+      "Defence Institute of Advanced Technology (DIAT)",
+      "National Centre for Cell Sciences",
+      "National Cytology Center",
+      "National Institute of Virology (NIV)",
+      "Indian Institute of Tropical Meteorology (IITM)",
+      "Indian Institute Technology Madras (IITM)",
+      "National Chemical Laboratory",
+      "National Research Centre for Grapes",
+      "Directorate on Onion and Garlic Research",
+      "Directorate of Floriculture Research"
+    ],
+    "Mumbai": [
+      "Tata Institute of Fundamental Research (TIFR)",
+      "Indira Gandhi Institute of Development Research (IGIDR)",
+      "International Institute for Population Sciences (IIPS)",
+      "Ali Yawar Jung National Institute of Speech and Hearing Impaired",
+      "Central Institute of Fisheries Education",
+      "Central Institute for Research on Cotton Technology"
+    ],
+    "Malegaon": ["National Institute of Abiotic Stress Management"],
+    "Solapur": ["National Research Centre on Pomegranate"]
+  },
+  "Madhya Pradesh": {
+    "Jabalpur": [
+      "Tropical Forest Research Institute (TFRI)",
+      "Directorate of Weed Research"
+    ],
+    "Budni": ["Farm Machinery Training and Testing Institutes (FMTTI)"],
+    "Chhindwara": ["Centre for Forestry Research and Human Resource Development (CFRHRD)"],
+    "Bhopal": [
+      "Indian Institute of Forest Management (IIFM)",
+      "High Security Animal Disease Laboratory",
+      "Central Institute of Agriculture Engineering",
+      "Indian Institute of Soil Sciences",
+      "Advanced Material and Process Research Institute"
+    ],
+    "Indore": ["Indian Institute of Soybean Research"]
+  },
+  "Manipur": {
+    "Imphal": ["Institute of Bioresources and Sustainable Development"]
+  },
+  "Nagaland": {
+    "Medziphema": ["National Research Centre on Mithun (Buffalo)"]
+  },
+  "New Delhi": {
+    "Delhi": [
+      "All India Institute of Medical Sciences (AIIMS)",
+      "Indian Council of Agricultural Research (ICAR)",
+      "Indian Agricultural Research Institute (IARI)",
+      "National Physical Laboratory (NPL)",
+      "Defence Research and Development Organisation (DRDO)",
+      "National Bureau of Plant Genetic Resources (NB-PGR)",
+      "Oil & Natural Gas Commission (ONGC)",
+      "The Energy and Resources Institute (TERI)",
+      "National Academy of Medical Sciences",
+      "Defence Institute of Psychological Research (DIPR)",
+      "National Museum of Natural History",
+      "Indian Council of Social Science Research (ICSSR)",
+      "National Institute of Agriculture Economics and Policy Research",
+      "National Institute of Science Communication and Policy Research",
+      "Indian Agriculture Statistics Research Institute",
+      "National Institute of Plant Biotechnology",
+      "National Research Centre for Integrated Pest Management",
+      "Directorate of Knowledge Management in Agriculture (DKMA)",
+      "Central Road Research Institute",
+      "Institute of Genomics and Integrative Biology"
+    ]
+  },
+  "Odisha": {
+    "Cuttack": [
+      "Central Rice Research Institute (CRRI)"],
+    "Bhubaneshwar": [
+      "National Aluminium Company (NALCO)",
+      "Indian Institute of Water Management",
+      "National Institute of Foot and Mouth Disease",
+      "Institute of Minerals and Material Technology",
+      "Central Institute of Freshwater Aquaculture (CIFA)",
+      "Institute of Life Sciences"
+    ]
+  },
+  "Punjab": {
+    "Mohali": ["Institute of Nano Science and Technology (INST)"],
+    "Chandigarh": ["Institute of Microbial Technology"],
+    "Ludhiana": [
+      "Indian Institute of Maize Research",
+      "Central Institute on Post Harvest Engineering and Technology"
+    ]
+  },
+  "Rajasthan": {
+    "Jaipur": ["National Institute of Agricultural Marketing (NIAM)"],
+    "Jodhpur": [
+      "Arid Forest Research Institute (AFRI)",
+      "Central Arid Zone Research Institute"
+    ],
+    "Bikaner": [
+      "Central Institute for Arid Horticulture",
+      "National Research Centre on Camel"
+    ],
+    "Avikanagar": ["Central Sheep and Wool Research Institute"],
+    "Ajmer": ["National Research Centre on Seed Spices"],
+    "Bharatpur": ["Directorate of Rapeseed and Mustard Research"],
+    "Pilani": ["Central Electronics Engineering Research Institute"]
+  },
+  "Sikkim": {
+    "Gangtok": ["National Research Centre for Orchids"]
+  },
+  "Tamil Nadu": {
+    "Coimbatore": [
+      "Institute of Forest Genetics and Tree Breeding (IFGTB)",
+      "Sugarcane Breeding Institute (SBI)"
+    ],
+    "Chennai": [
+      "National Institute of Ocean Technology (NIOT)",
+      "National Institute of Wind Energy (NIWE)",
+      "Central Institute of Brackishwater Aquaculture (CIBA)",
+      "Central Leather Research Institute",
+      "Structural Engineering Research Centre"
+    ],
+    "Tiruchirapalli": ["ICAR-National Research Centre for Banana"],
+    "Karaikudi": ["Central Electrochemical Research Institute"],
+    "Kalpakkam": ["Indira Gandhi Centre for Atomic Research (IGCAR)"],
+    "Mahendragiri": ["ISRO Propulsion Complex (IPRC)"]
+  },
+  "Telangana": {
+    "Hyderabad": [
+      "National Remote Sensing Center (NRSC)",
+      "Center for Materials for Electronics Technology (C-MET)",
+      "National Center for Oceanic Information System (NCOIS)",
+      "DNA Fingerprinting and Diagnostics Centre",
+      "National Plant Protection Training Institute (NPPTI)",
+      "National Academy of Agricultural Research Management (NAARM)",
+      "National Institute of Rural Development and Panchayati Raj (NIRDPR)",
+      "Central Research Institute for Dryland Agriculture (CRIDA)",
+      "International Crop Research Institute for Semi Arid Tropics (ICRISAT)",
+      "National Mineral Development Corporation (NMDC)",
+      "The Central Crocodile Breeding and Management Training Institute",
+      "Centre for Cellular and Molecular Biology",
+      "National Institute for Empowerment of Persons with Intellectual Disabilities",
+      "Atomic Minerals Directorate for Exploration and Research",
+      "Indian Institute of Rice Research",
+      "Indian Institute of Millets Research (IIMR)",
+      "Indian Institute of Oilseeds Research",
+      "National Research Centre on Meat",
+      "Directorate of Poultry Research",
+      "Indian Institute of Chemical Technology",
+      "National Geophysical Research Institute"
+    ],
+    "Secunderabad": [
+      "College of Defence Management",
+      "National Institute for the Empowerment of Persons with Intellectual Disabilities"
+    ],
+    "Nizamabad": ["National Turmeric Board (2025)"]
+  },
+  "Uttarakhand": {
+    "Dehradun": [
+      "Forest Survey of India (FSI) 1981",
+      "Forest Research Institute",
+      "Indira Gandhi National Forest Academy",
+      "Indian Council of Forestry Research and Education (ICFRE)",
+      "Wildlife Institute of India (WII)",
+      "Indian Institute of Remote Sensing (IIRS)",
+      "National Institute for the Empowerment of Persons with Visual Disabilities",
+      "Indian Institute of Soil and Water Conservation",
+      "Indian Institute of Petroleum"
+    ],
+    "Almora": [
+      "G B Pant Institute of Himalayan Environment and Development",
+      "Vivekananda Parvatiya Krishi Anusandhan Sansthan"
+    ],
+    "Pantnagar": ["G. B. Pant University of Agriculture and Technology"],
+    "Bhimtal (Nainital)": [
+      "Directorate of Cold Water Fisheries Research",
+      "National Institute for Empowerment of Persons with Visual Disabilities"
+    ]
+  },
+  "Uttar Pradesh": {
+    "Lucknow": [
+      "Indian Institute of Sugarcane Research (IISR)",
+      "Central Drug Research Institute (CDRI)",
+      "National Botanical Research Institute (NBRI)",
+      "Birbal Sahni Institute of Paleobotany (BSIP)",
+      "Central Institute of Medicinal and Aromatic Plants",
+      "National Bureau of Fish Genetic Resources",
+      "Central Institute of Subtropical Horticulture",
+      "King George Medical University (KGMU)",
+      "Indian Institute of Toxicology Research"
+    ],
+    "Kanpur": [
+      "Indian Institute of Pulses Research",
+      "Indian Institute of Sugar Technology",
+      "Chandrashekhar Azad Agriculture & Technology University",
+      "Artificial Limbs Manufacturing Corporation of India (ALIMCO)"
+    ],
+    "Varanasi": ["Indian Institute of Vegetable Research"],
+    "Izzatnagar (Bareilly)": [
+      "Indian Veterinary Research Institute (IVRI)",
+      "Central Avian Research Institute"
+    ],
+    "Jhansi": [
+      "Indian Grassland and Fodder Research Institute (IGFRI)",
+      "Central Agroforestry Research Institute"
+    ],
+    "Agra": ["Central Leprosy Institute"],
+    "Makhdum (Mathura)": ["Central Goat Research Institute"],
+    "Prayagraj": [
+      "Motilal Nehru National Institute of Technology",
+      "Centre for Social Forestry and Eco-Rehabilitation (CSFER)",
+      "Harishchandra Research Institute"
+    ],
+    "Ghaziabad": ["National Centre of Organic Farming"],
+    "Noida": ["National Center for Medium Range Weather Forecasting (NCMRWF)"],
+    "Roorkee": [
+      "National Institute of Hydrology",
+      "Central Building Research Institute"
+    ],
+    "Amethi": ["Rajiv Gandhi Institute of Petroleum Technology (RGIPT)"],
+    "Renukoot (Sonbhadra)": ["Hindustan Aluminium Company (Hindalco)"],
+    "Hapur": ["Indian Grain storage, Management and Research Institute (IGMRI)"],
+    "Ayodhya": ["Acharya Narendra Deva University Of Agriculture And Technology"],
+    "Meerut": ["Central Institute for Research on Cattle"],
+    "Modipuram (Merrut)": ["Indian Institute of Farming Systems Research"],
+    "Mau": [
+      "Indian Institute of Seed Science",
+      "National Bureau of Agriculturally Important Microorganism"
+    ]
+  },
+  "West Bengal": {
+    "Kolkata": [
+      "Botanical Survey of India (BSI) 1890",
+      "Zoological Survey of India (ZSI) 1916",
+      "Indian Tea Board",
+      "Saha Institute of Nuclear Physics",
+      "National Institute For Locomotor Disabilities",
+      "National Institute of Natural Fibre Engineering and Technology",
+      "Central Glass and Ceramic Research Institute",
+      "Indian Institute of Chemical Biology"
+    ],
+    "Barrackpore": [
+      "Central Inland Fisheries Research Institute (CIFRI)",
+      "Central Research Institute for Jute and Allied Fibres"
+    ],
+    "Durgapur": [
+      "Central Mechanical Engineering Research Institute",
+      "Variable Energy Cyclotron Center (VECC)",
+      "National Institute of Orthopedic Disabilities"
+    ],
+    "Asansol": ["Aluminium Corporation of India (ACI) (JK Nagar)"]
+  }
+}
