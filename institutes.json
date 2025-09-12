@@ -59,7 +59,7 @@
       "Indian Institute of Wheat and Barley Research",
       "Central Soil Salinity Research Institute"
     ],
-    "Manesar, Gurugram": ["National Brain Research Institute"],
+    "Manesar (Gurugram)": ["National Brain Research Institute"],
     "Gurugram": [
       "National Horticulture Board",
       "The National Institute of Solar Energy (NISE)"
@@ -118,14 +118,14 @@
     "Puttur": ["Directorate of Cashew Research"]
   },
   "Kerala": {
-    "Kozhikode": ["Indian Institute of Spices Research (IISR)"],
-    "Kochi": [
+    "Kozhikode (Calicut)": ["Indian Institute of Spices Research (IISR)"],
+    "Kochi (Cochin)": [
       "Masala Board",
       "Coconut Development Board",
       "Central Marine Fisheries Research Institute (CMFRI)",
       "Central Institute of Fisheries Technology"
     ],
-    "Thiruvananthapuram": [
+    "Thiruvananthapuram (Trivandrum)": [
       "Vikram Sarabhai Space Centre (VSSC)",
       "Liquid Propulsion Systems Centre (LPSC)",
       "Thumba Equatorial Rocket Launching Station (TERLS)",
@@ -265,7 +265,7 @@
       "Central Leather Research Institute",
       "Structural Engineering Research Centre"
     ],
-    "Tiruchirapalli": ["ICAR-National Research Centre for Banana"],
+    "Tiruchirapalli (Trichi)": ["ICAR-National Research Centre for Banana"],
     "Karaikudi": ["Central Electrochemical Research Institute"],
     "Kalpakkam": ["Indira Gandhi Centre for Atomic Research (IGCAR)"],
     "Mahendragiri": ["ISRO Propulsion Complex (IPRC)"]
