@@ -382,17 +382,15 @@
       "National Institute For Locomotor Disabilities",
       "National Institute of Natural Fibre Engineering and Technology",
       "Central Glass and Ceramic Research Institute",
-      "Indian Institute of Chemical Biology"
+      "Indian Institute of Chemical Biology",
+      "Variable Energy Cyclotron Center (VECC)",
+      "National Institute for Locomotor Disabilities (Divyangjan)"
     ],
     "Barrackpore": [
       "Central Inland Fisheries Research Institute (CIFRI)",
       "Central Research Institute for Jute and Allied Fibres"
     ],
-    "Durgapur": [
-      "Central Mechanical Engineering Research Institute",
-      "Variable Energy Cyclotron Center (VECC)",
-      "National Institute of Orthopedic Disabilities"
-    ],
-    "Asansol": ["Aluminium Corporation of India (ACI) (JK Nagar)"]
+    "Durgapur": ["Central Mechanical Engineering Research Institute"],
+    "Jaykay Nagar (Asansol)": ["Aluminium Corporation of India (ACI)"]
   }
 }
