@@ -105,10 +105,6 @@ Common additions: New institutes, relocations, or expansions (e.g., post-2023 up
 
 If you spot errors, open an issue with details.
 
-## License
-This dataset is released under the **CC0 1.0 Universal (Public Domain Dedication)**.  
-You may use, modify, and distribute it freely for any purpose, including commercial, without attribution.
-
 ## Credits & Updates
 - **Compiler**: Or-i0n
 - **Last Updated**: December 2025 (based on official sources; check for post-2025 changes).
